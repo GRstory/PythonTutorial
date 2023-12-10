@@ -1,16 +1,15 @@
 # test_app
+PythonTutorial 2022 - 파이썬 학습 안드로이드 어플리케이션
 
-A new Flutter project.
 
-## Getting Started
+개발 목표 - 파이썬 기초를 학습 가능한 어플 제작 / 최신 모바일 UI (One UI) 디자인
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+개발 기간 - 2022.4 ~ 2022.6
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+개발 인원 - 김준명, 최동현
+
+팀장 김준명 - 기획 및 제작
+
+팀원 최동현 - 기획 및 아이디어 제공
